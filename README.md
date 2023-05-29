@@ -1,4 +1,4 @@
-# SEGMENTAÇÃO SEMÂNTICA DE AMBIENTES INTERNOS
+# Segmentação semântica de ambientes internos
 
 ### Aprendizado de Máquina
 
