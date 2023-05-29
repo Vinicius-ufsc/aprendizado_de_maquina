@@ -11,4 +11,6 @@ objetivo a introdução ao estudo da área de segmentação
 semântica pelos autores e a consolidação de conceitos vistos
 em sala de aula.
 
+![Git flow](https://github.com/Vinicius-ufsc/aprendizado_de_maquina/blob/main/Imagens/fig1.png?raw=true)
+
 <div align="center">2021.1</div> 
