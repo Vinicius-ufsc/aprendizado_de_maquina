@@ -10,3 +10,5 @@ especificamente de casas e apartamentos, o projeto tem como
 objetivo a introdução ao estudo da área de segmentação
 semântica pelos autores e a consolidação de conceitos vistos
 em sala de aula.
+
+<div align="center">2021.1</div> 
